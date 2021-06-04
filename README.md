@@ -7,13 +7,16 @@
 * Gain experience using Postman to test web server routes
 * Gain experience working with JSON
 
+
 ### Technologies used
-	Fastify
-	JSON
-    Postman
-    Visual Studio Code
+`Fastify`
+`JSON`
+`Postman`
+`Visual Studio Code`
+
+
 ### What I learned
-	How to create a REST API that works with static data and a Node.js REST API to handle the GET verb. 
+How to create a REST API that works with static data and a Node.js REST API to handle the GET verb. 
 
 
 Project 4 Module Functions
